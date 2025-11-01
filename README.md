@@ -1,5 +1,4 @@
 
-projeto site para ongs
 
 # Plataforma Web para ONGs
 
